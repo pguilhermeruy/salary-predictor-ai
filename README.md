@@ -1,5 +1,5 @@
 # 💰 Tech Salary Predictor - People Analytics
-
+🔗 **Acesse o Projeto Online:** [Clique aqui para testar](https://salary-predictor-ai-guilhermeruy.streamlit.app/)
 Uma ferramenta de Inteligência Artificial voltada para RH e Gestão, desenvolvida para estimar budgets de contratação de forma baseada em dados (Data Driven).
 
 ## Objetivo
@@ -24,3 +24,5 @@ O modelo utiliza um algoritmo de **Regressão Linear Simples**. Ele foi treinado
 3. Execute a aplicação:
    ```bash
    streamlit run salario.md
+
+https://salary-predictor-ai-guilhermeruy.streamlit.app/
