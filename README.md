@@ -26,5 +26,5 @@ O modelo utiliza um algoritmo de **Regressão Linear Simples**. Ele foi treinado
    ```bash
    streamlit run salario.md
 
-https://salary-predictor-ai-guilhermeruy.streamlit.app/
+
 
