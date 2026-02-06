@@ -22,5 +22,5 @@ O modelo utiliza um algoritmo de **Regressão Linear Simples**. Ele foi treinado
    ```bash
    pip install -r requirements.txt
 3. Execute a aplicação:
-   ``bash
+   ```bash
    streamlit run salario.md
